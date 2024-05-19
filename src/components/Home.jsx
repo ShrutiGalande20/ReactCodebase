@@ -6,7 +6,7 @@ function Home(){
     return(
         <>
         <hr />
-        <h1 className='one'>Home Component</h1>
+        <h1 className='one'>Home page</h1>
         <InfoCard name="Swara" designation="Tester" color="red"/>
       <InfoCard name="John" designation="Software Enginer" color="blue"/>
       <InfoCard name="Soham" designation="Graphic Designer" color="green"/>
